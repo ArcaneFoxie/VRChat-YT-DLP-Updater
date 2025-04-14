@@ -6,6 +6,12 @@ A simple utility to update VRChat's internal version of yt-dlp with cookie suppo
 
 This application is **NOT** officially approved or endorsed by VRChat. Use of this tool is at your own risk. We are not responsible for any potential actions taken by VRChat team. This tool is provided as-is, without any warranty or guarantee.
 
+## 🎧 Join the Community
+
+NowSpinnin’ is powered by the **The Fox Burrow** community.\
+Come hang out, get support, share your setups, or just vibe with us:\
+👉 [Join the Discord](https://discord.gg/ZxVqmDwn3r)
+
 ## Features
 
 - Automatically updates VRChat's internal yt-dlp to the latest version
